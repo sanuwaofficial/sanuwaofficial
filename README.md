@@ -1,6 +1,8 @@
-- 👋 Hi, I’m SANUWA
+                                  - 👋 Hi, I’m SANUWA
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial"></a> </p>
+
 - 👀 I’m interested in whatsapp bots
+
 - 🌱 I’m currently learning JAVASCRIPT
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
