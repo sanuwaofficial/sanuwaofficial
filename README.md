@@ -8,5 +8,5 @@
 </p>
 
 
- <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&theme=onedark"></a> </p>
+ <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial"></a> </p>
 
