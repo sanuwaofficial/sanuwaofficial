@@ -1,5 +1,5 @@
                                  
- <h1 align="center">    Hi, I’m SANUWA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></h1>
+ <h1 align="center">    Hi, I’m SANUWA<a href="github.com/sanuwaofficial"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></a></h1>
 <p align="center"> <a href="https://github.com/sanuwaofficial"> <img src="https://media.baamboozle.com/uploads/images/125798/1630553326_444721_gif-url.gif" width="250"></a></p>
 
 - 👀 I’m interested on whatsapp bots
