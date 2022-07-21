@@ -1,6 +1,6 @@
                                  
  <h1 align="center">    Hi, I’m SANUWA<a href="github.com/sanuwaofficial"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></a></h1>
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://cardivo.vercel.app/api?name=sanuwaofficial&description=Hi,I am Sanuwa official.I am the creater of AquaBot.  nice to meet  you&image=https://avatars.githubusercontent.com/sanuwaofficial&usqp=CAU&backgroundColor=%23ecf0f1&instagram=__..sanuwa.__&github=sanuwaofficial&pattern=ticTacToe&colorPattern=%23eaeaea&site=aquabot.ga"/></a>
+
 
 
 
@@ -15,8 +15,8 @@
 
 
 
- <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&no-bg=true&no-frame=true&theme=algolia"></a></p>
+ <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&no-bg=true&no-frame=false&theme=algolia"></a></p>
 
-<p align="center"> <a href="https://github.com/sanuwaofficial"><img  src="http://github-readme-streak-stats.herokuapp.com?user=sanuwaofficial&theme=github-dark-blue&hide_border=true&background=DDD9DA00&border=DD272700&stroke=2F10DD&fire=2F10DD&ring=1E12DD&currStreakNum=2F10DD&currStreakLabel=2F10DD&sideLabels=2F10DD&dates=2F10DD&sideNums=2F10DD)"></a></p>
+<p align="center"> <a href="https://github.com/sanuwaofficial"><img  src="http://github-readme-streak-stats.herokuapp.com?user=sanuwaofficial&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=2F10DD&fire=2F10DD&ring=1E12DD&currStreakNum=2F10DD&currStreakLabel=2F10DD&sideLabels=2F10DD&dates=2F10DD&sideNums=2F10DD)"></a></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANUWAOFFICIAL&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </p>
