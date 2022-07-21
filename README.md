@@ -17,6 +17,6 @@
 
  <p align="center"> <a href="https://github.com/sanuwaofficial"><img src="https://github-profile-trophy.vercel.app/?username=sanuwaofficial&no-bg=true&no-frame=true"></a></p>
 
-<p align="center"> <a href="https://github.com/sanuwaofficial"><img  src="http://github-readme-streak-stats.herokuapp.com?user=sanuwaofficial&hide_border=true&background=FFFFFF00"></a></p>
- <p align="center"> <a href="https://github.com/sanuwaofficial"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sanuwaofficial&"></a></p>
+<p align="center"> <a href="https://github.com/sanuwaofficial"><img  src="http://github-readme-streak-stats.herokuapp.com?user=sanuwaofficial&hide_border=true&background=00000000&sideNums=FF0E2CF1&stroke=DD0E44&currStreakLabel=DD0C34&dates=DD0000&sideLabels=DD2727&fire=DD2727&ring=DD2727&currStreakNum=DD2727"></a></p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanuwaofficial" > </p>
