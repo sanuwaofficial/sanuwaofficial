@@ -1,5 +1,13 @@
-                                 
- <h1 align="center">    Hi, I’m SANUWA<a href="github.com/sanuwaofficial"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"></a></h1>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/sanuwaofficial">
+        <img align="center"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=400&lines=HI!!+I+am+Sanuwa%20+%20Oficial."
+            alt="Typing SVG"
+        />
+    </a>
+</p>                                
+ 
 
 
 
